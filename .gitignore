@@ -1,0 +1,15 @@
+# Docs
+nginx-hosting.md
+CLASSROOM-SETUP.md
+
+# Auto-generated
+package-lock.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Dependencies
+node_modules/

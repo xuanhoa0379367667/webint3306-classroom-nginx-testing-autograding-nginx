@@ -1,0 +1,9 @@
+{
+  "name": "autograding-nginx-hosting",
+  "version": "1.0.0",
+  "description": "Bài tập Hosting ứng dụng web với Nginx - Autograding",
+  "scripts": {
+    "test": "node grade.js"
+  },
+  "private": true
+}
